@@ -1,4 +1,4 @@
-# Job Market Analysis by Web Scraping
+# Job Trends for Graduate Success by Web Scraping
 
 ![Domain](https://img.shields.io/badge/Domain-HR%20Analytics-blue?style=for-the-badge)  
 ![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20Webscraping%20%7C%20Pandas-green?style=for-the-badge)  
